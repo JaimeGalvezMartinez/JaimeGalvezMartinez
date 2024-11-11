@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Hi there 👋 My Real Name is Jaime Galvez. I´m 22 years, I´m from Spain. I like computer science, as well as programming, learning new things and open-source. I hope that my projects will be useful. My main language right now is bash-script.
+- Welcome to my GitHub Profile. Here you find my programming projects. I hope they turn out to be helpful 
 
-- 📫 How to reach me: ... thehellishpandaa.programmer@protonmail.com 
+- 📫 How to reach me: ... jaime2001galvezmgmail.com 
   
 
   
