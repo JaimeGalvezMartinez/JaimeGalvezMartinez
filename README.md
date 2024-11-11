@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: ... thehellishpandaa@gmail.com (Only for professional purposes)
 - 🔭 I’m currently working on ... bash-scripting
-  - 👯 I’m looking to collaborate on ... ambicious project with somebody
+- 👯 I’m looking to collaborate on ... ambicious project with somebody
 <!--
 **TheHellishPandaa/TheHellishPandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
