@@ -2,7 +2,7 @@
 
 - Welcome to my GitHub Profile. Here you find my programming projects. I hope they turn out to be helpful 
 
-- 📫 How to reach me: ... jaime2001galvezmgmail.com 
+- 📫 How to reach me: ... 
   
 
   
