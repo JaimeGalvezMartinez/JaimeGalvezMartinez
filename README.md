@@ -2,10 +2,9 @@
 
 - Welcome to my GitHub Profile. Here you find my programming projects. I hope they turn out to be helpful 
 
-- 📫 How to reach me: ... 
-  
-
-  
+- 📫 How to reach me: ... thehellishpandaa@gmail.com (Only for professional purposes)
+- 🔭 I’m currently working on ... bash-scripting
+  - 👯 I’m looking to collaborate on ... ambicious project with somebody
 <!--
 **TheHellishPandaa/TheHellishPandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
