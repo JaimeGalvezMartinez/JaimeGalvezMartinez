@@ -6,13 +6,11 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
 
 ## 🛠️ Projects
 
