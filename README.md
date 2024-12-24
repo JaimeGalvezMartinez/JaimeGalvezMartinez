@@ -1,19 +1,39 @@
-## Hi there 👋
+# Hi there, I'm TheHellishPandaa 👋
 
-- Welcome to my GitHub Profile. Here you find my programming projects. I hope they turn out to be helpful 
+Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies.
 
-- 📫 How to reach me: ... thehellishpandaa@proton.me (Only for professional purposes)
-<!--
-**TheHellishPandaa/TheHellishPandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+
+Here are a few projects I've been working on:
+
+- [**Project A**](https://github.com/TheHellishPandaa/project-a): A brief description of Project A.
+- [**Project B**](https://github.com/TheHellishPandaa/project-b): A brief description of Project B.
+- [**Project C**](https://github.com/TheHellishPandaa/project-c): A brief description of Project C.
+
+## 📈 GitHub Stats
+
+![TheHellishPandaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHellishPandaa&show_icons=true&theme=dark)
+
+## 📫 How to reach me
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+## 💬 Let's Connect
+
+Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new ideas and opportunities!
+
+Thanks for visiting my profile! Have a great day! 😊
