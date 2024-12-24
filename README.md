@@ -1,4 +1,4 @@
-# Hi there, I'm TheHellishPandaa 👋
+# Hi there, I'm Jaime Galvez Martinez 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies.
 
@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 Here are a few projects I've been working on:
 
-- [**Project A**](https://github.com/TheHellishPandaa/project-a): A brief description of Project A.
-- [**Project B**](https://github.com/TheHellishPandaa/project-b): A brief description of Project B.
+- [**Project A**](https://github.com/TheHellishPandaa/GNU-PasswdManager2025): A brief description of Project A.
+- [**Project B**](https://github.com/TheHellishPandaa/): A brief description of Project B.
 - [**Project C**](https://github.com/TheHellishPandaa/project-c): A brief description of Project C.
 
 ## 📈 GitHub Stats
