@@ -3,14 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies. I`m from Los Yebenes (Toledo), now living in Añover de Tajo (Toledo) 
 
 ## 🔧 Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
+![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 
 ## 🛠️ Projects
