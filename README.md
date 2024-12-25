@@ -29,8 +29,4 @@ Here are a few projects I've been working on:
 - Email: [](mailto:)
 - LinkedIn: [my-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
 
-## 💬 Let's Connect
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always open to new ideas and opportunities!
-
 Thanks for visiting my profile! 😊
