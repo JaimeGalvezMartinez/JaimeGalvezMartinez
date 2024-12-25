@@ -18,7 +18,7 @@ Here are a few projects I've been working on:
 
 - [**GNU-PasswdManager**](https://github.com/TheHellishPandaa/GNU-PasswdManager2025): A Open-Source Password Manager Programed in Python 
 - [**PacMan 2025**](https://github.com/TheHellishPandaa/Pac-Man2025): Remake of Pac-Man arcade game, written in JavaScript, HTML, and CSS.
-- [**Project C**](https://github.com/TheHellishPandaa/project-c): A brief description of Project C.
+- [**ZenNetForge**](https://github.com/TheHellishPandaa/ZenNetForge): .
 
 ## 📈 GitHub Stats
 
