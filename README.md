@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+
 
 
 ## 🛠️ Projects
