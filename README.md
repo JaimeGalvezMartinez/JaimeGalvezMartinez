@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 Here are a few projects I've been working on:
 
 - [**GNU-PasswdManager**](https://github.com/TheHellishPandaa/GNU-PasswdManager2025): A Open-Source Password Manager Programed in Python 
-- [**Project B**](https://github.com/TheHellishPandaa/): A brief description of Project B.
+- [**PacMan 2025**](https://github.com/TheHellishPandaa/Pac-Man2025): 
 - [**Project C**](https://github.com/TheHellishPandaa/project-c): A brief description of Project C.
 
 ## 📈 GitHub Stats
