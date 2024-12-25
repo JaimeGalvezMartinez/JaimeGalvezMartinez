@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## 🔧 Technologies & Tools
 
 - Linux: ![Linux](https://img.shields.io/badge/Linux-Tux-yellow?logo=linux)
+  <br>
 - Python: ![Python](https://www.python.org/static/community_logos/python-logo.png)
 
 ## 🛠️ Projects
