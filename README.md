@@ -3,9 +3,24 @@
 Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies. I`m from Los Yebenes (Toledo), now living in Añover de Tajo (Toledo) 
 
 ## 🔧 Technologies & Tools
-![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
-![Python](https://www.python.org/static/community_logos/python-logo.png)
-
+    <ul>
+        <li>
+            <a href="https://www.python.org" target="_blank">
+                <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="150">
+                Sitio oficial de Python
+            </a>
+        </li>
+        <li>
+            <a href="https://docs.python.org/3/" target="_blank">
+                Documentación oficial
+            </a>
+        </li>
+        <li>
+            <a href="https://pypi.org/" target="_blank">
+                PyPI - Repositorio de paquetes
+            </a>
+        </li>
+    </ul>
 
 ## 🛠️ Projects
 
