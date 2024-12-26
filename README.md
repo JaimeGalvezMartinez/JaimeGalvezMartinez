@@ -8,7 +8,11 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
    
   <hr>
   
-- ![Python](https://www.python.org/static/community_logos/python-logo.png)
+![Python](https://www.python.org/static/community_logos/python-logo.png)
+
+<hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="100">
 
 ## 🛠️ Projects
 
