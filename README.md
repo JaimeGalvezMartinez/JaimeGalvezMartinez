@@ -20,6 +20,14 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="120">
 
 <hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="100">
+
+<hr>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="100">
+
+<hr>
 ## 🛠️ Projects
 
 Here are a few projects I've been working on:
