@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="120">
 
+<hr>
 ## 🛠️ Projects
 
 Here are a few projects I've been working on:
