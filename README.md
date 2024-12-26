@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="140">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Visual_Studio_Code_1.35_icon.svg" alt="Visual Studio Code Logo" width="200">
 
 <hr>
 ## 🛠️ Projects
