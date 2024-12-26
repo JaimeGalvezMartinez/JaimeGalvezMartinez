@@ -5,8 +5,9 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## 🔧 Technologies & Tools
 
    ![Linux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
-
+   
   <hr>
+  
 - ![Python](https://www.python.org/static/community_logos/python-logo.png)
 
 ## 🛠️ Projects
