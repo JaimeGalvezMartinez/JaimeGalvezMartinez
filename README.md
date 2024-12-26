@@ -5,19 +5,19 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## 🔧 Technologies & Tools
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120"> - Linux
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120"> -- Linux
 
   <hr>
   
-![Python](https://www.python.org/static/community_logos/python-logo.png) - Python
+![Python](https://www.python.org/static/community_logos/python-logo.png) -- Python
 
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120">  - JavaScript
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120">  -- JavaScript
 
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">   - CSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">   -- CSS
 
 <hr>
 
