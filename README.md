@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies. I`m from Los Yebenes (Toledo), now living in Añover de Tajo (Toledo) 
 
 ## 🔧 Technologies & Tools
+<hr>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120">
 
