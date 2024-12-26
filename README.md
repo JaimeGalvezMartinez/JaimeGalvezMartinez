@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 ## 🔧 Technologies & Tools
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120"> - Linux
 
   <hr>
   
-![Python](https://www.python.org/static/community_logos/python-logo.png)
+![Python](https://www.python.org/static/community_logos/python-logo.png) - Python
 
 <hr>
 
@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm passionate about software development, and I l
 
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100"> - CSS
 
 <hr>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="140">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="140"> - HTML
 
 <hr>
 
