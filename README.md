@@ -1,43 +1,38 @@
-# Hi there, I'm Jaime Galvez Martinez 👋
+<h2 align="left">Hi 👋! My name is Jaime Galvez Martinez and I'm a fan of programming , open-source and new technologies. From Spain....</h2>
 
-Welcome to my GitHub profile! I'm passionate about software development, and I love working on open-source projects and learning new technologies. Here you find my programming projects.
+###
 
-## 🔧 Technologies & Tools
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="120"> -- Linux
+###
 
-  <hr>
-  
-![Python](https://www.python.org/static/community_logos/python-logo.png) -- Python
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
 
-<hr>
+###
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="120">  -- JavaScript
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<hr>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">   -- CSS
-
-<hr>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="120"> -- HTML
-
-<hr>
-
-## 🛠️ Projects
-
-Here are a few projects I've been working on:
-
-- [**GNU-PasswdManager**](https://github.com/TheHellishPandaa/GNU-PasswdManager2025): A Open-Source Password Manager Programed in Python 
-- [**ZenNetForge**](https://github.com/TheHellishPandaa/ZenNetForge): Script written in bash that you can configure an ubuntu system as if it were a gateway, being able to configure the networks interfaces, DHCP server, Firewall, local DNS server, SAMBA Server, NextCloud Server and more. .
-
-## 📈 GitHub Stats
-
-![TheHellishPandaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheHellishPandaa&show_icons=true&theme=dark)
-
-## 📫 How to reach me
-
-- Email: [](mailto:)
-- LinkedIn: [my-linkedin-profile](https://www.linkedin.com/in/jaime-galvez-martinez-75574b33a/)
-
-Thanks for visiting my profile! 😊
+###
