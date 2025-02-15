@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Galvez Martinez</h1>
-<h3 align="center">A passionated Developer and open-source software from Spain.</h3>
+<h3 align="center">Computer Systems Administrator | Casual Programmer | Open-Source Enthusiast from Spain.</h3>
 
 - 🔭 I’m currently working on [ZenNetForge](https://github.com/TheHellishPandaa/ZenNetForge)
 
