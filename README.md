@@ -6,6 +6,7 @@
 - 📫 How to reach me **jgalvezmdevelop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3><strong>COMMING SOON</strong>
 <p align="left">
 </p>
 
