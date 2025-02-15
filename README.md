@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ZenNetForge](https://github.com/TheHellishPandaa/ZenNetForge)
 
-- 📫 How to reach me ## jgalvezmdevelop@gmail.com
+- 📫 How to reach me **jgalvezmdevelop@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
