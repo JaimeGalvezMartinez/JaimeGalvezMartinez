@@ -7,7 +7,7 @@
   <tr>
     <td>
       <a href="https://github.com/TheHellishPandaa/GNU-NetworkMonitor2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhos09&repo=vagrant-utilities&theme=gruvbox" alt="Vagrant Utilities" />
+        <img src="" alt="GNU-NetworkMonitor" />
       </a>
     </td>
   </tr>
