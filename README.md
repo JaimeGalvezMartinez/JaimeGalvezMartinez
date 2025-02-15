@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime Galvez Martinez</h1>
-<h3 align="center">A passionatedeveloper from Spain</h3>
+<h3 align="center">A passionated eveloper from Spain</h3>
 
 - 🔭 I’m currently working on [ZenNetForge](https://github.com/TheHellishPandaa/ZenNetForge)
 
-- 📫 How to reach me **jaime2001galvezm@gmail.com**
+- 📫 How to reach me **COMMING SOON**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
