@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Galvez Martinez</h1>
-<h3 align="center">Computer Systems Administrator | Casual Programmer | Open-Source Enthusiast | Trance Music Lover from Spain.</h3>
+<h3 align="center">Computer Systems Administrator | Casual Programmer | Open-Source Enthusiast from Spain.</h3>
 
 <h2 align="center">Currently working on:</h2>
 
