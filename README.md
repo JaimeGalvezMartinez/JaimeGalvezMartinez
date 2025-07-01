@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-- 📫 How to reach me **jgalvezmdevelop@protonmail.com**
+- 📫 How to reach me **jaime.galvezm01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <h3><strong>COMMING SOON</strong>
